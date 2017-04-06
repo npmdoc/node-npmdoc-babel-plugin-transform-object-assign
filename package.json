@@ -1,0 +1,17 @@
+{
+    "buildNpmdoc":"babel-plugin-transform-object-assign",
+    "devDependencies": {
+        "babel-plugin-transform-object-assign": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "name":"npmdoc-babel-plugin-transform-object-assign",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-babel-plugin-transform-object-assign"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh"
+    },
+    "version": "0.0.1"
+}
