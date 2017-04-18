@@ -1,9 +1,14 @@
-# api documentation for  babel-plugin-transform-object-assign (v6.22.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-plugin-transform-object-assign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-plugin-transform-object-assign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-object-assign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-object-assign)
+# npmdoc-babel-plugin-transform-object-assign
+
+#### api documentation for  babel-plugin-transform-object-assign (v6.22.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-babel-plugin-transform-object-assign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babel-plugin-transform-object-assign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-object-assign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babel-plugin-transform-object-assign)
+
 #### Replace Object.assign with an inline helper
 
-[![NPM](https://nodei.co/npm/babel-plugin-transform-object-assign.png?downloads=true)](https://www.npmjs.com/package/babel-plugin-transform-object-assign)
+[![NPM](https://nodei.co/npm/babel-plugin-transform-object-assign.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-plugin-transform-object-assign)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-babel-plugin-transform-object-assign_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-babel-plugin-transform-object-assign/build/screenCapture.npmPackageListing.svg)
 
@@ -38,33 +43,26 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "amasad",
-            "email": "amjad.masad@gmail.com"
+            "name": "amasad"
         },
         {
-            "name": "hzoo",
-            "email": "hi@henryzoo.com"
+            "name": "hzoo"
         },
         {
-            "name": "jmm",
-            "email": "npm-public@jessemccarthy.net"
+            "name": "jmm"
         },
         {
-            "name": "loganfsmyth",
-            "email": "loganfsmyth@gmail.com"
+            "name": "loganfsmyth"
         },
         {
-            "name": "sebmck",
-            "email": "sebmck@gmail.com"
+            "name": "sebmck"
         },
         {
-            "name": "thejameskyle",
-            "email": "me@thejameskyle.com"
+            "name": "thejameskyle"
         }
     ],
     "name": "babel-plugin-transform-object-assign",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-assign"
@@ -73,16 +71,6 @@
     "version": "6.22.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module babel-plugin-transform-object-assign](#apidoc.module.babel-plugin-transform-object-assign)
-
-
-
-# <a name="apidoc.module.babel-plugin-transform-object-assign"></a>[module babel-plugin-transform-object-assign](#apidoc.module.babel-plugin-transform-object-assign)
 
 
 
